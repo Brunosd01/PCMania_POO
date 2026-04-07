@@ -1,6 +1,10 @@
 Nome: Bruno Silva Defelicibus
+
 Curso: GES
+
 Matricula: 571
+
+
 
 *Uso de IA: Conforme as instruções do exercício, eu utilizei IA para auxiliar no desenvolvimento dos códigos.
 
